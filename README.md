@@ -1,1 +1,7 @@
-# Distributed-Transaction-Notes
+# 分布式事务解决方案
+
+* 基于可靠消息(独立消息)的最终一致性方案
+* 基于可靠消息(本地事务)的最终一致性方案
+* TCC型方案
+
+* [目录](SUMMARY.md)
